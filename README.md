@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-<h4>Setup Infrastructure</h4>
+<h4><ul><li>Setup Infrastructure</li></ul></h4>
 <ol><li>Create Resource Group</li>
 <li>Create Windows VM</li>
 <li>Create Virtual Network</li>
@@ -34,12 +34,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <li>Download Wireshark</li>
 <li>Download/Open Powershell</li></ol>
 
-<h4>Observe ICMP traffic</h4>
-<h4>Configure a Firewall</h4>
-<h4>Observe SSH traffic</h4>
-<h4>Observe DHCP traffic</h4>
-<h4>Observe DNS traffice</h4>
-<h4>Observe RDP traffic</h4>
+<h4><ul><li>Configure a Firewall</li></ul></h4>
+
+<h4><ul><li>Monitor Network Traffic</li></ul></h4>
+
+<ul><li>Observe ICMP traffic</li>
+<li>Observe SSH traffic</li>
+<li>Observe DHCP traffic</li>
+<li>Observe DNS traffice</li>
+<li>Observe RDP traffic</li></ul>
 
 <h2>Actions and Observations</h2>
 
