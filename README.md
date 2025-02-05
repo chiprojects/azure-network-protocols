@@ -6,9 +6,13 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
+<h2> Full Video Demonstrations</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com/watch?v=SYNhOV8r1fA)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups:"Creating Azure Virtual Machines"](https://www.youtube.com/watch?v=SYNhOV8r1fA)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups:"Observe ICMP Traffic"](https://www.youtube.com/watch?v=lJbATJhVAzI)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups:"Configuring a Firewall"](https://www.youtube.com/watch?v=UTvioqnCZQM)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups:"Observe SSH, DHCP, DNS, and RDP Traffic"](https://www.youtube.com/watch?v=pjfXCrHilPo)
+
 
 <h2>Environments and Technologies Used</h2>
 
